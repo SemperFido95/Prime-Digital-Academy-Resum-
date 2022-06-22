@@ -1,0 +1,32 @@
+body {
+  margin: 10px;
+  font-family: "Times New Roman", serif;
+}
+
+h1 {
+  font-size: 30px;
+  border-bottom: 1px solid black;
+  margin: 0px;
+}
+
+h3 {
+  font-size: 20px;
+  border-bottom: 2px solid black;
+}
+
+h4 {
+  font-size: 16px;
+  margin-bottom: 0; 
+}
+
+p {
+  font-size: 14px;
+}
+
+ul {
+  font-size: 14px;
+}
+
+#skills {
+  columns: 2;
+}
