@@ -1,4 +1,5 @@
 body {
+  color: blue;
   margin-top: 20px;
   margin-left: 200px;
   margin-right: 200px;
@@ -37,5 +38,4 @@ ul {
 
 #skills {
   columns: 2;
-  padding-left: 0;
 }
