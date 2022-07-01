@@ -76,5 +76,9 @@ ul {
 
 a {
   color: #377AC8;
+  text-decoration: none;
 }
 
+a:hover {
+  color: white;
+}
