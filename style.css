@@ -16,6 +16,7 @@ body {
   border-radius: 25px;
   font-family: "Helvetica", serif;
   background-color: #9baaca;
+  color: #0F2238;
 }
 
 h1 {
@@ -23,13 +24,13 @@ h1 {
   margin: 0px;
   text-transform: uppercase;
   text-align: center;
-  color: #0F2238;
 }
 
 h2 {
   margin-bottom: 0;
   border-bottom: 2px solid #377AC8;
   color: #0F2238;
+  font-size: 24px;
 }
 
 
@@ -58,14 +59,6 @@ ul {
   margin-top: 50px;
   width: 725px;
   text-align: center;
-}
-
-#section-head {
-  color: #252627;
-}
-
-#contact {
-  color: #377AC8;
 }
 
 #jobs {
