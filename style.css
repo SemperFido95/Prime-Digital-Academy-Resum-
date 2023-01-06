@@ -59,16 +59,11 @@ ul {
   text-align: center;
 }
 
-#jobs {
-  text-align: left;
-  border-bottom: 1px solid white;
-}
-
 a {
   color: #377AC8;
   text-decoration: none;
 }
 
 a:hover {
-  color: white;
+  color: black;
 }
