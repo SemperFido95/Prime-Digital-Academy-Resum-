@@ -3,10 +3,7 @@ body {
 }
 
 #container {
-  margin-top: 20px;
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-bottom: 20px;
+  margin: auto;
   text-align: left;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -17,11 +14,12 @@ body {
   font-family: "Helvetica", serif;
   background-color: #9baaca;
   color: #0F2238;
+  width: 50vw;
 }
 
 h1 {
   font-size: 30px;
-  margin: 0px;
+  margin: auto;
   text-transform: uppercase;
   text-align: center;
 }
@@ -57,12 +55,12 @@ ul {
 
 #intro {
   margin-top: 50px;
-  width: 725px;
+  width: 50vw;
   text-align: center;
 }
 
 #jobs {
-  width: 725px;
+  width: 50vw;
   text-align: left;
   border-bottom: 1px solid black;
 }
